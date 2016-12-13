@@ -20,6 +20,7 @@ $ npm init
 ```
 
 **4. 安裝需要的 gulp plugin**
+
 其中 `gulp-gh-pages` 就是讓最後輸出的檔案可以 deploy 到 GitHub
 
 ```shell
